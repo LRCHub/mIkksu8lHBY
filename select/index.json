@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DJ in my life",
+  "base_artist": "エレファントカシマシ",
+  "createdAt": "2026-03-23T17:22:16.921583Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DJ in my life",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_01_DJ_in_my_life_エレファントカシマシ.txt"
+    }
+  ]
+}
